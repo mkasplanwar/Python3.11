@@ -24,7 +24,7 @@ print("Nilai Panjang adalah ", panjang)
 # Penamaan
 
 nilai_y = 15 # dengan menggunakan underscore
-juta10 = 10000000 # 10 Juta tidak boleh
+juta10 = 10000000 # 10 Juta tidak boleh. angka tidak boleh didepan nama variabel
 nilaiZ = 17.5
 
 # Pemanggilan Kedua

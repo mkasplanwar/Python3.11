@@ -1,5 +1,6 @@
 # a = 10, a adalah variabel dengan nilai 10
 
+
 # Tipe Data: Angka Satuan Tdk Berkoma (Integer)
 data_integer = 1
 #print(type(data_integer))
@@ -33,3 +34,7 @@ from ctypes import c_double
 data_c_double = c_double(10.5)
 print("Data : ", data_c_double)
 print(" - Bertipe : ", type(data_c_double))
+
+'''di ptyhon itu tidak ada tipe data yang seperti
+int a = 10  tapi di python itu tipe data nya langsung di assign
+di value variabelnya'''
